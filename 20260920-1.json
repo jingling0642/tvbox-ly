@@ -1405,15 +1405,15 @@
     },
     {
       "name": "YanG",
-      "type": "0",
+      "type": 0,
       "pass": true,
-      "url": "https://https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "suxuang",
-      "type": "0",
+      "type": 0,
       "pass": true,
       "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -1528,7 +1528,7 @@
     },
     {
       "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
+      "url": "https://dns.quad9.net/dns-query",
       "ips": [
         "9.9.9.9",
         "149.112.112.112"
