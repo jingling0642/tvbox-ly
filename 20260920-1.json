@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;33d68b70607c55c58748cbe9a6219307",
+  "spider": "https://gh.927223.xyz/https://raw.githubusercontent.com/fongmi/catvodspider/main/jar/custom_spider.jar",
   "sites": [
     {
       "key": "番社动漫",
@@ -106,31 +106,7 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
       "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "记录片",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
+        "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫"
       ]
     },
     {
@@ -140,31 +116,7 @@
       "api": "http://ffzy.tv/api.php/provide/vod/",
       "searchable": 1,
       "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "记录片",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
+        "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫"
       ]
     },
     {
@@ -182,27 +134,7 @@
       "api": "https://api.ukuapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "categories": [
-        "综艺",
-        "动漫",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港澳剧",
-        "日剧",
-        "欧美剧",
-        "动漫电影",
-        "台湾剧",
-        "韩剧",
-        "泰剧",
-        "记录片",
-        "短剧",
-        "奇幻片",
-        "犯罪片"
+        "综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港澳剧", "日剧", "欧美剧", "动漫电影", "台湾剧", "韩剧", "泰剧", "记录片", "短剧", "奇幻片", "犯罪片"
       ],
       "header": {
         "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
@@ -215,37 +147,7 @@
       "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "categories": [
-        "欧美剧",
-        "香港剧",
-        "韩剧",
-        "日剧",
-        "马泰剧",
-        "动作片",
-        "爱情片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "动漫",
-        "内地剧",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        " 欧美动漫",
-        "综艺",
-        "台湾剧",
-        "体育赛事",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "灾难片",
-        "悬疑片",
-        "犯罪片",
-        "奇幻片",
-        "短剧"
+        "欧美剧", "香港剧", "韩剧", "日剧", "马泰剧", "动作片", "爱情片", "喜剧片", "科幻片", "恐怖片", "剧情片", "战争片", "记录片", "动漫", "内地剧", "动画片", "中国动漫", "日本动漫", " 欧美动漫", "综艺", "台湾剧", "体育赛事", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "灾难片", "悬疑片", "犯罪片", "奇幻片", "短剧"
       ],
       "header": {
         "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1"
@@ -305,23 +207,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "categories": [
-        "国产剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "恐怖片",
-        "剧情片",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "日韩综艺"
+        "国产剧", "韩剧", "日剧", "港剧", "台剧", "动作片", "喜剧片", "爱情片", "科幻片", "战争片", "恐怖片", "剧情片", "国产动漫", "日韩动漫", "欧美动漫", "大陆综艺", "日韩综艺"
       ]
     },
     {
@@ -332,19 +218,7 @@
       "searchable": 1,
       "filterable": 0,
       "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "大陆剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片"
+        "国产动漫", "日韩动漫", "大陆剧", "欧美剧", "韩剧", "日剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片"
       ],
       "header": {
         "User-Agent": "Mozilla/5.0"
@@ -357,34 +231,6 @@
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "drpy_js_Anime1动畫",
-      "name": "动漫 • Anime1动畫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/Anime1动畫.js"
-    },
-    {
-      "key": "drpy_js_NT动漫",
-      "name": "动漫 • NT动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/NT动漫.js"
-    },
-    {
-      "key": "drpy_js_路漫漫",
-      "name": "动漫 • 路漫漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/路漫漫.js"
-    },
-    {
-      "key": "drpy_js_去看吧",
-      "name": "动漫 • 去看吧",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/去看吧.js"
     }
   ],
   "parses": [
@@ -449,24 +295,7 @@
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "imgo",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
+          "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "imgo", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"
         ],
         "header": {
           "User-Agent": "okhttp/4.1.0"
@@ -479,28 +308,7 @@
       "type": 0,
       "ext": {
         "flag": [
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
+          "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "sohu", "xigua", "fun", "风行"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0"
@@ -513,28 +321,7 @@
       "type": 0,
       "ext": {
         "flag": [
-          "qiyi",
-          "imgo",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "sohu",
-          "xigua",
-          "fun",
-          "风行"
+          "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "sohu", "xigua", "fun", "风行"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0"
@@ -552,24 +339,7 @@
       "url": "http://pandown.pro/app/kkdy.php?url=",
       "ext": {
         "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
+          "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "rx", "ltnb", "bilibili", "1905", "xigua"
         ]
       }
     },
@@ -579,23 +349,7 @@
       "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
       "ext": {
         "flag": [
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "芒果"
+          "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果"
         ],
         "header": {
           "User-Agent": "okhttp/3.12.0"
@@ -615,27 +369,11 @@
     },
     {
       "name": "无上",
-      "type": "1",
+      "type": 1,
       "url": "https://mfjx.iwsyy.xyz/?url=",
       "ext": {
         "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
+          "qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905"
         ],
         "header": {
           "User-Agent": "okhttp/4.9.1"
@@ -648,14 +386,7 @@
       "url": "https://zy.qiaoji8.com/xiafan.php?url=",
       "ext": {
         "flag": [
-          "QD4K",
-          "iyf",
-          "duanju",
-          "gzcj",
-          "GTV",
-          "GZYS",
-          "weggz",
-          "Ace"
+          "QD4K", "iyf", "duanju", "gzcj", "GTV", "GZYS", "weggz", "Ace"
         ],
         "header": {
           "User-Agent": "okhttp/4.9.1"
